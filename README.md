@@ -2,7 +2,7 @@
 ================================================================================
   PROFILE: Ashter Aoun Ali
   TITLE: Senior Software Engineer · Full Stack Architect · AI Researcher
-  EXPERIENCE: 12+ Years
+  EXPERIENCE: 04+ Years
   DOMAINS: Full Stack Development, AI/ML, NLP, Systems Architecture
 ================================================================================
 -->
@@ -13,7 +13,7 @@
 <!-- Typing Animation — Veteran Engineer Vibe -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=12%2B+years+of+software+craftsmanship;Full-Stack+%26+Systems+Architect;Python+%2F+React+%2F+Node+%2F+AI+Specialist;Building+scalable%2C+enterprise-grade+solutions;Mentor+%26+Open+Source+contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=04%2B+years+of+software+craftsmanship;Full-Stack+%26+Systems+Architect;Python+%2F+React+%2F+Node+%2F+AI+Specialist;Building+scalable%2C+enterprise-grade+solutions;Mentor+%26+Open+Source+contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🧭 About Me
 
-I am a **Senior Software Engineer** with over **12 years of professional experience** architecting, building, and shipping high-impact software solutions across industries. My career spans full-stack development, AI/ML integration, cloud infrastructure, and technical leadership.
+I am a **Senior Software Engineer** with over **04 years of professional experience** architecting, building, and shipping high-impact software solutions across industries. My career spans full-stack development, AI/ML integration, cloud infrastructure, and technical leadership.
 
 I don't just write code — I design **systems that scale**, **architectures that endure**, and **products that deliver measurable value**. My work is driven by a deep commitment to engineering excellence, clean code, and continuous innovation.
 
@@ -48,7 +48,7 @@ I don't just write code — I design **systems that scale**, **architectures tha
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-404991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 
 ### ⚛️ Frontend Engineering
@@ -115,7 +115,7 @@ I don't just write code — I design **systems that scale**, **architectures tha
 
 | Area | Achievements |
 |------|--------------|
-| **Software Engineering** | 12+ years of professional experience across 5+ industries |
+| **Software Engineering** | 04+ years of professional experience across 5+ industries |
 | **Full Stack Development** | Architected and delivered 50+ production-grade web applications |
 | **AI & NLP** | Built 8+ AI-powered systems including chatbots, RAG pipelines, and research assistants |
 | **Enterprise Systems** | Designed and deployed ERP, CRM, and HRM platforms serving 1000+ users |
@@ -312,7 +312,7 @@ I believe in:
 ## 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashteraoun&layout=compact&theme=tokyonight&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashteraoun&layout=compact&theme=tokyonight&langs_count=04" />
 </p>
 
 **Most Used Languages:**
